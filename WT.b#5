@@ -172,10 +172,10 @@
 <text x="5.948" y="48.36" size="1.016" layer="21" font="vector" rot="SR0" align="bottom-right">3v3</text>
 <text x="3.148" y="53.66" size="1.016" layer="22" font="vector" rot="SMR0" align="bottom-right">5v</text>
 <text x="3.048" y="51.06" size="1.016" layer="22" font="vector" rot="SMR0" align="bottom-right">gnd</text>
-<text x="73.925" y="15.75" size="1.9304" layer="21" font="vector" rot="R90">Tesseract Rev03</text>
-<text x="78.445" y="16.92" size="1.9304" layer="21" font="vector" rot="R90">Rebel Technology</text>
-<text x="68.835" y="40.8975" size="1.9304" layer="22" font="vector" rot="MR270">Rebel Technology</text>
-<text x="70.915" y="40.655" size="1.9304" layer="22" font="vector" rot="MR270">Tesseract Rev03</text>
+<text x="28.5606" y="60.3524" size="1.9304" layer="21" font="vector" rot="R90">WaveTable</text>
+<text x="33.5378" y="54.1056" size="1.9304" layer="21" font="vector" rot="R90">Rebel Technology</text>
+<text x="19.6606" y="26.8767" size="1.9304" layer="22" font="vector" rot="MR270">Rebel Technology</text>
+<text x="25.1442" y="15.1026" size="1.9304" layer="22" font="vector" rot="MR270">WaveTable</text>
 <text x="2.948" y="48.36" size="1.016" layer="22" font="vector" rot="SMR0" align="bottom-right">3v3</text>
 <text x="6.048" y="51.06" size="1.016" layer="21" font="vector" rot="SR0" align="bottom-right">gnd</text>
 <text x="5.048" y="53.66" size="1.016" layer="21" font="vector" rot="SR0" align="bottom-right">5v</text>
