@@ -182,8 +182,8 @@
 <dimension x1="-0.06" y1="-0.97" x2="55.94" y2="-0.97" x3="27.94" y3="-5.47" textsize="1.778" layer="47"/>
 <dimension x1="-1.06" y1="99.03" x2="-1.06" y2="-0.97" x3="-3.06" y3="49.03" textsize="1.778" layer="47"/>
 <text x="49.94" y="81.03" size="1.016" layer="22" rot="MR0">BOOT</text>
-<text x="47.74" y="1.83" size="1.27" layer="22" font="vector" rot="MR180">-12V</text>
-<text x="41.84" y="0.73" size="1.27" layer="21" font="vector" rot="R180">-12V</text>
+<text x="0.4452" y="86.0056" size="1.27" layer="22" font="vector" rot="MR180">-12V</text>
+<text x="10.0392" y="88.2584" size="1.27" layer="21" font="vector" rot="R180">-12V</text>
 </plain>
 <libraries>
 <library name="Rebel">
@@ -3195,13 +3195,13 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="57.7879" y="83.1837" size="1.27" layer="28" rot="MR270"/>
 </element>
 <element name="R2" library="Rebel" package="0603" value="100k" x="5.08" y="12.446" smashed="yes" rot="MR270">
-<attribute name="NAME" x="6.1452" y="11.6713" size="0.9" layer="26" rot="MR90"/>
+<attribute name="NAME" x="4.672" y="14.1097" size="1.016" layer="26" font="vector" rot="MR90"/>
 </element>
 <element name="R14" library="Rebel" package="0603" value="10k" x="24.13" y="30.988" smashed="yes" rot="MR270">
 <attribute name="NAME" x="23.0808" y="32.5135" size="1.016" layer="26" font="vector" rot="MR270"/>
 </element>
 <element name="R13" library="Rebel" package="0603" value="1k" x="46.99" y="19.05" smashed="yes" rot="MR180">
-<attribute name="NAME" x="47.574" y="19.442" size="1.016" layer="26" rot="MR0"/>
+<attribute name="NAME" x="45.4404" y="18.5784" size="1.016" layer="26" font="vector" rot="MR0"/>
 </element>
 <element name="R16" library="Rebel" package="0603" value="4k3" x="7.112" y="39.624" smashed="yes" rot="MR180">
 <attribute name="NAME" x="5.4502" y="39.3384" size="0.9" layer="26" font="vector" rot="MR0"/>
@@ -3293,7 +3293,7 @@ design rules under a new name.</description>
 <attribute name="NAME" x="48.506" y="67.3848" size="1.016" layer="26" font="vector" rot="MR270"/>
 </element>
 <element name="R33" library="Rebel" package="0603" value="100k" x="37.592" y="11.176" smashed="yes" rot="MR0">
-<attribute name="NAME" x="35.916" y="10.638" size="1.016" layer="26" rot="MR0"/>
+<attribute name="NAME" x="38.71" y="9.1648" size="1.016" layer="26" font="vector" rot="MR0"/>
 </element>
 <element name="R30" library="Rebel" package="0603" value="100k" x="13.716" y="32.512" smashed="yes" rot="MR90">
 <attribute name="NAME" x="13.178" y="34.188" size="1.016" layer="26" font="vector" rot="MR90"/>
@@ -3347,7 +3347,7 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="26.035" y="56.388" size="1.27" layer="28" rot="MR180"/>
 </element>
 <element name="IC3" library="linear" package="SO08" value="NE5532D" x="46.736" y="10.16" smashed="yes" rot="MR180">
-<attribute name="NAME" x="44.069" y="11.065" size="0.9" layer="26" rot="MR270"/>
+<attribute name="NAME" x="46.593" y="6.2738" size="1.016" layer="26" font="vector" rot="MR180"/>
 <attribute name="VALUE" x="50.673" y="12.065" size="1.27" layer="28" rot="MR270"/>
 </element>
 <element name="BOOT" library="SparkFun" package="1X03" value="" x="51.816" y="48.26" smashed="yes" rot="R90">
@@ -3358,7 +3358,7 @@ design rules under a new name.</description>
 <attribute name="NAME" x="9.6712" y="25.2584" size="1.016" layer="26" font="vector" rot="MR90" align="bottom-center"/>
 </element>
 <element name="R11" library="Rebel" package="0603" value="22k" x="6.35" y="2.54" smashed="yes" rot="MR180">
-<attribute name="NAME" x="4.25" y="2.678" size="0.9" layer="26" font="vector" rot="MR180" align="bottom-center"/>
+<attribute name="NAME" x="6.3328" y="4.6084" size="1.016" layer="26" font="vector" rot="MR180" align="bottom-center"/>
 </element>
 <element name="R7" library="Rebel" package="0603" value="91R" x="5.334" y="33.782" smashed="yes" rot="MR270">
 <attribute name="NAME" x="5.8736" y="36.3852" size="1.016" layer="26" font="vector" rot="MR270" align="bottom-center"/>
@@ -3367,7 +3367,7 @@ design rules under a new name.</description>
 <attribute name="NAME" x="7.9564" y="33.2292" size="1.016" layer="26" font="vector" rot="MR270" align="bottom-center"/>
 </element>
 <element name="R12" library="Rebel" package="0603" value="100k" x="6.35" y="0.254" smashed="yes" rot="MR0">
-<attribute name="NAME" x="5.65" y="-0.608" size="0.9" layer="26" font="vector" rot="MR180" align="bottom-center"/>
+<attribute name="NAME" x="9.1044" y="0.3572" size="1.016" layer="26" font="vector" rot="MR180" align="bottom-center"/>
 </element>
 <element name="IC5" library="texas" package="DBZ_R-PDSO-G3" value="LM4040B10" x="29.464" y="74.422" smashed="yes" rot="MR180">
 <attribute name="MF" value="TEXAS INSTRUMENT CONNECTORS" x="29.464" y="74.422" size="1.778" layer="28" rot="MR180" display="off"/>
@@ -3385,13 +3385,13 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="30.607" y="69.088" size="1.27" layer="28" rot="MR0"/>
 </element>
 <element name="R15" library="Rebel" package="0603" value="4k7" x="43.688" y="23.114" smashed="yes" rot="MR270">
-<attribute name="NAME" x="42.0232" y="23.114" size="0.9" layer="26" font="vector" rot="MR90" align="bottom-center"/>
+<attribute name="NAME" x="41.82" y="23.0632" size="1.016" layer="26" font="vector" rot="MR90" align="bottom-center"/>
 </element>
 <element name="R18" library="Rebel" package="0603" value="4k7" x="24.13" y="25.4" smashed="yes" rot="MR90">
 <attribute name="NAME" x="26.1028" y="25.4524" size="1.016" layer="26" font="vector" rot="MR270" align="bottom-center"/>
 </element>
 <element name="R1" library="Rebel" package="0603" value="22k" x="7.112" y="17.526" smashed="yes" rot="MR0">
-<attribute name="NAME" x="7.112" y="16.664" size="0.9" layer="26" font="vector" rot="MR180" align="bottom-center"/>
+<attribute name="NAME" x="9.398" y="17.934" size="1.016" layer="26" font="vector" rot="MR180" align="bottom-center"/>
 </element>
 <element name="R5" library="Rebel" package="0603" value="100k" x="5.08" y="21.59" smashed="yes" rot="MR270">
 <attribute name="NAME" x="7.0628" y="21.844" size="1.016" layer="26" font="vector" rot="MR270" align="bottom-center"/>
@@ -3405,7 +3405,7 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="13.208" y="33.401" size="1.27" layer="28" rot="MR270"/>
 </element>
 <element name="IC2" library="linear" package="SO08" value="NE5532D" x="8.746" y="11.78" smashed="yes" rot="MR180">
-<attribute name="NAME" x="6.079" y="12.885" size="0.9" layer="26" rot="MR270"/>
+<attribute name="NAME" x="11.3454" y="10.229" size="0.9" layer="26" font="vector" rot="MR90"/>
 <attribute name="VALUE" x="12.683" y="13.685" size="1.27" layer="28" rot="MR270"/>
 </element>
 <element name="R3" library="Rebel" package="0603" value="100k" x="5.334" y="27.178" smashed="yes" rot="MR270">
@@ -3415,11 +3415,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="9.5712" y="22.4644" size="1.016" layer="26" font="vector" rot="MR90" align="bottom-center"/>
 </element>
 <element name="C9" library="resistor" package="C0603" value="100n" x="5.08" y="8.89" smashed="yes" rot="MR270">
-<attribute name="NAME" x="5.591" y="9.428" size="0.9" layer="26" rot="MR180"/>
+<attribute name="NAME" x="5.8928" y="7.5438" size="1.27" layer="26" font="vector" rot="MR270"/>
 <attribute name="VALUE" x="7.112" y="9.779" size="1.27" layer="28" rot="MR270"/>
 </element>
 <element name="C6" library="resistor" package="C0603" value="100n" x="12.316" y="14.281" smashed="yes" rot="MR90">
-<attribute name="NAME" x="11.727" y="12.519" size="0.9" layer="26" rot="MR180"/>
+<attribute name="NAME" x="13.2874" y="13.4542" size="1.016" layer="26" font="vector" rot="MR90"/>
 <attribute name="VALUE" x="10.284" y="13.392" size="1.27" layer="28" rot="MR90"/>
 </element>
 <element name="TGP1-4" library="SparkFun" package="1X05" value="" x="54.6129" y="61.5562" smashed="yes" rot="MR90">
@@ -3435,11 +3435,11 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="4.4604" y="40.0362" size="1.27" layer="28" rot="MR270"/>
 </element>
 <element name="C11" library="resistor" package="C0603" value="100p" x="46.99" y="21.59" smashed="yes" rot="MR0">
-<attribute name="NAME" x="47.428" y="20.879" size="1.016" layer="26" rot="MR270"/>
+<attribute name="NAME" x="48.5138" y="22.028" size="1.016" layer="26" font="vector" rot="MR180"/>
 <attribute name="VALUE" x="47.879" y="19.558" size="1.27" layer="28" rot="MR0"/>
 </element>
 <element name="C13" library="resistor" package="C0603" value="1n" x="30.48" y="25.4" smashed="yes" rot="MR270">
-<attribute name="NAME" x="30.918" y="23.789" size="0.9" layer="26" font="vector" rot="MR270"/>
+<attribute name="NAME" x="31.0704" y="23.9922" size="1.016" layer="26" font="vector" rot="MR270"/>
 <attribute name="VALUE" x="32.512" y="26.289" size="1.27" layer="28" rot="MR270"/>
 </element>
 <element name="C10" library="resistor" package="C0603" value="1n" x="30.48" y="30.988" smashed="yes" rot="MR90">
@@ -3453,7 +3453,7 @@ design rules under a new name.</description>
 <attribute name="NAME" x="48.6156" y="25.6032" size="1.016" layer="26" font="vector" rot="MR180" align="bottom-center"/>
 </element>
 <element name="R27" library="Rebel" package="0603" value="1k" x="45.72" y="0.254" smashed="yes" rot="MR180">
-<attribute name="NAME" x="45.72" y="-0.646" size="0.9" layer="26" font="vector" rot="MR180" align="bottom-center"/>
+<attribute name="NAME" x="48.4632" y="0.6748" size="1.016" layer="26" font="vector" rot="MR180" align="bottom-center"/>
 </element>
 <element name="R26" library="Rebel" package="0603" value="4k3" x="7.112" y="42.164" smashed="yes" rot="MR180">
 <attribute name="NAME" x="7.132" y="43.026" size="1.016" layer="26" font="vector" rot="MR0" align="bottom-center"/>
@@ -3468,7 +3468,7 @@ design rules under a new name.</description>
 <attribute name="NAME" x="51.7636" y="36.9096" size="1.016" layer="26" font="vector" rot="MR270" align="bottom-center"/>
 </element>
 <element name="C16" library="resistor" package="C0603" value="100p" x="45.72" y="2.54" smashed="yes" rot="MR0">
-<attribute name="NAME" x="44.198" y="3.689" size="0.9" layer="26" rot="MR270"/>
+<attribute name="NAME" x="44.075" y="1.9284" size="1.016" layer="26" font="vector" rot="MR0"/>
 <attribute name="VALUE" x="46.609" y="0.508" size="1.27" layer="28" rot="MR0"/>
 </element>
 <element name="C14" library="resistor" package="C0603" value="1n" x="44.45" y="41.91" smashed="yes" rot="MR90">
@@ -3483,11 +3483,11 @@ design rules under a new name.</description>
 <attribute name="NAME" x="48.9728" y="42.164" size="1.016" layer="26" font="vector" rot="MR270" align="bottom-center"/>
 </element>
 <element name="C17" library="resistor" package="C0603" value="100n" x="43.18" y="8.382" smashed="yes" rot="MR90">
-<attribute name="NAME" x="44.042" y="7.193" size="0.9" layer="26" rot="MR90"/>
+<attribute name="NAME" x="42.6196" y="9.9362" size="1.016" layer="26" font="vector" rot="MR90"/>
 <attribute name="VALUE" x="41.148" y="7.493" size="1.27" layer="28" rot="MR90"/>
 </element>
 <element name="C12" library="resistor" package="C0603" value="100n" x="50.292" y="11.43" smashed="yes" rot="MR90">
-<attribute name="NAME" x="49.821" y="12.852" size="0.9" layer="26" rot="MR0"/>
+<attribute name="NAME" x="51.1552" y="10.7326" size="1.016" layer="26" font="vector" rot="MR90"/>
 <attribute name="VALUE" x="48.26" y="10.541" size="1.27" layer="28" rot="MR90"/>
 </element>
 <element name="JP8" library="SparkFun" package="AVR_ICSP" value="M05X2PTH" x="2.54" y="92.71" smashed="yes" rot="MR0">
@@ -3523,11 +3523,11 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="16.112" y="92.999" size="1.016" layer="28" rot="MR0"/>
 </element>
 <element name="C21" library="resistor" package="C0603" value="100p" x="37.465" y="23.114" smashed="yes" rot="MR270">
-<attribute name="NAME" x="36.4822" y="24.2462" size="1.016" layer="26" rot="MR270"/>
+<attribute name="NAME" x="36.3298" y="24.3478" size="1.016" layer="26" font="vector" rot="MR270"/>
 <attribute name="VALUE" x="39.497" y="24.003" size="1.27" layer="28" rot="MR270"/>
 </element>
 <element name="C22" library="resistor" package="C0603" value="100p" x="50.038" y="2.794" smashed="yes" rot="MR270">
-<attribute name="NAME" x="49.376" y="3.883" size="0.9" layer="26" rot="MR270"/>
+<attribute name="NAME" x="49.3252" y="4.1878" size="1.016" layer="26" font="vector" rot="MR270"/>
 <attribute name="VALUE" x="52.07" y="3.683" size="1.27" layer="28" rot="MR270"/>
 </element>
 <element name="BUS" library="Rebel" package="JST-B3B-PH-KL" value="" x="7.112" y="62.738" rot="MR0"/>
