@@ -25514,6 +25514,7 @@ NS Package M08A</description>
 <wire x1="10.16" y1="233.68" x2="10.16" y2="238.76" width="0.1524" layer="91"/>
 <pinref part="C24" gate="G$1" pin="2"/>
 <wire x1="10.16" y1="238.76" x2="12.7" y2="238.76" width="0.1524" layer="91"/>
+<junction x="10.16" y="238.76"/>
 </segment>
 </net>
 <net name="BOOT0" class="0">
