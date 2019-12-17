@@ -1,0 +1,27 @@
+Morphing patches dedicated to RebelTech Owl module and prototypes
+These wavetable patches use frequency range wavetables to go from a complex harmonic rich signal in LF to a simple sine wave in HF. So there won't be any aliasing in HF and no distinctive sound changes between wavetables.
+inspired from earlevel nigel Redmon 's code: http://www.earlevel.com/main/category/digital-audio/oscillators/wavetable-oscillators/
+
+extwaves folder contain a program that generates a float array from .wav files .
+
+RebelTech.org : https://www.rebeltech.org/patch-library/patch/WT_Single_Osc
+
+patches:
+
+	[not ready]	-WTExtWavePatch.hpp
+
+headers:
+-WaveTableOsc.h
+-WaveForm.h
+-WaveFormExt.h
+
+additional function files:
+-WaveTableOsc.cpp
+-WaveForm.cpp
+-WaveFormExt.cpp
+
+ext waveform:
+-amen_loo.h
+
+
+alex niger
