@@ -59,10 +59,10 @@ public:
     
     
     morph1->setMorphY(morphD);
-    morph1->setFrequency(freqA/sampleRate);
+    morph1->setFrequency((freqA/sampleRate)+FML);
     morph1->setMorphX(morphC);
     morph2->setMorphY(morphH);
-    morph2->setFrequency((freqR)/sampleRate);
+    morph2->setFrequency((freqR/sampleRate)+FMR);
     morph2->setMorphX(morphG);
     //FML = getParameterValue(PARAMETER_B) - 0.4991;
     //FMR = getParameterValue(PARAMETER_F) - 0.4991;
